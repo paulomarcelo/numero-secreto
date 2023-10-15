@@ -3,7 +3,7 @@
 :root {
     --font-family: 'Montserrat', sans-serif;
     --bg-color: #0AA1DD;
-    --primary-color: #E8F9FD;    
+    --primary-color: #E8F9FD;
 }
 
 body {
@@ -25,7 +25,7 @@ h1 {
 
 h3 {
     font-size: 2em;
-    margin-top: 20px; 
+    margin-top: 20px;
 }
 
 .mensagem {
@@ -40,3 +40,4 @@ h3 {
     padding: 10px;
     margin: 20px;
 }
+
