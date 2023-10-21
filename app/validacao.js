@@ -29,7 +29,6 @@ function verificaSeOChutePossuiUmValorValido(chute) {
         <div>O número secreto é maior <i class="fa-solid fa-up-long"></i></div>
         `
     }
- 
 }
 
 function chuteForInvalido(numero) {
@@ -39,7 +38,6 @@ function chuteForInvalido(numero) {
 function numeroForMaiorOuMenorQueOValorPermitido(numero){
     return numero > maiorValor || numero < menorValor
 }
-
 
 document.body.addEventListener('click', e => {
     if (e.target.id == 'jogar-novamente') {
